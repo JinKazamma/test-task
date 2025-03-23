@@ -1,0 +1,3 @@
+/home/dante/test-task-for-nefteautomatika/build/CMakeFiles/word_counter.dir
+/home/dante/test-task-for-nefteautomatika/build/CMakeFiles/edit_cache.dir
+/home/dante/test-task-for-nefteautomatika/build/CMakeFiles/rebuild_cache.dir
