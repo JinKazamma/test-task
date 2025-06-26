@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/word_counter.dir/main.cpp.o -o word_counter 
