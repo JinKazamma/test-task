@@ -22,7 +22,5 @@ void SortDump(StatData* data, size_t count);
 void ProcessFiles(const char* file1, const char* file2, const char* output_file);
 
 void PrintStatData(const StatData* data, size_t count, size_t limit);
-static int CompareById(const void* a, const void* b);
-static int CompareByCost(const void* a, const void* b);
 
 #endif // STATDATA_H

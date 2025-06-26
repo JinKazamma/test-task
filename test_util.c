@@ -36,7 +36,6 @@ int main() {
 
     system("./statdata_util file1.bin file2.bin output.bin");
 
-    int res = 0;
     size_t count;
     StatData* result = LoadDump("output.bin", &count);
     
